@@ -1,2 +1,3 @@
 # Responsive-Blog
-Responsive blog design praktice, using html and css
+Responsive blog design practice, using html and css
+
